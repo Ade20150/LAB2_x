@@ -1,2 +1,2 @@
-# LAB2_x
+# LAB2_javascript
 Created with CodeSandbox
